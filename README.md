@@ -6,3 +6,5 @@ A simple CLI implementation of Bubble Sort in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `sorter.py`
+
+*Initialized by thommasssjameesssonn workspace automation.*
